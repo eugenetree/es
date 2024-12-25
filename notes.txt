@@ -1,0 +1,10 @@
+Relational Database:
+Table: users
+ID	Name	Email	Age
+1	Alice	alice@email.com	25
+2	Bob	bob@email.com	30
+
+Elasticsearch:
+Index: users
+{ "ID": 1, "Name": "Alice", "Email": "alice@email.com", "Age": 25 }
+{ "ID": 2, "Name": "Bob", "Email": "bob@email.com", "Age": 30 }
